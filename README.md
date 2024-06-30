@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Noah!
 🔭 I'm currently working on some exciting AI and ML projects, including developing models for driver drowsiness detections and market trend predictions based on meteorological data.<br>🌱 Learning about NLP and GenAI.<br>🤖 Looking to collaborate on AI projects and hackathons! <br>🌍 Passionate about creative problem solving, social betterment, and innovative AI powered solutions!
 
 
