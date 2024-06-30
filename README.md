@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Noah!
-## Computer Engineering (Innovation Stream) student @ Queen's University in Canada
+## Computer Engineering (Innovation Stream) Student @ Queen's University
 🔭 I'm currently working on some exciting AI and ML projects, including developing models for driver drowsiness detections and market trend predictions based on meteorological data.<br>🌱 Learning about NLP and GenAI.<br>🤖 Looking to collaborate on any projects and hackathons! <br>🌍 Passionate about creative problem solving, social betterment, and innovative AI powered solutions!
 
 
