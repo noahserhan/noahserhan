@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noah!
 ## Computer Engineering (Innovation Stream) Student @ Queen's University
-🔭 I'm currently working on some exciting AI and ML projects, including developing models for driver drowsiness detections and market trend predictions based on meteorological data.<br>🌱 Learning about NLP and GenAI.<br>🤖 Looking to collaborate on any projects and hackathons! <br>🌍 Passionate about creative problem solving, social betterment, and innovative AI powered solutions!
+🔭 I'm currently working on some exciting AI and ML projects, including developing a model to detect and monitor oil spills from SAR satelite imagery, as well as an NLP model to translate brain signals captured via EEG into text.<br>🌱 Learning about NLP and GenAI.<br>🤖 Looking to collaborate on any projects and hackathons! <br>🌍 Passionate about creative problem solving, social betterment, and innovative AI powered solutions!
 
 
 ## Socials:
